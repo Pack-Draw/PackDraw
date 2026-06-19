@@ -1,6 +1,6 @@
 # PackDraw Official Platform
 
-[![Visit PackDraw](https://img.shields.io/badge/Visit%20PackDraw-packdraw.online-blue?style=for-the-badge&logo=google-chrome)](https://packdraw.com)
+[![Visit PackDraw](https://img.shields.io/badge/Visit%20PackDraw-packdraw.com-blue?style=for-the-badge&logo=google-chrome)](https://packdraw.online)
 
 The **official PackDraw platform** — your gateway to the ultimate pack opening marketplace. Open mystery packs, battle other players, and win rare luxury items, collectibles, and exclusive products. Play games and earn.
 
