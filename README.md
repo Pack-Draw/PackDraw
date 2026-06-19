@@ -4,7 +4,6 @@
 
 The **official PackDraw platform** — your gateway to the ultimate pack opening marketplace. Open mystery packs, battle other players, and win rare luxury items, collectibles, and exclusive products. Play games and earn.
 
-<meta name="google-site-verification" content="lC9Z2VEM7QxuZXzz6fJhsnExKoSt-CoBv0imJCEQZ7w" />
 ---
 
 ## Quick Access
@@ -58,7 +57,6 @@ PackDraw is more than just another pack opening site — it's a **community-driv
 By combining provably fair algorithms with an incredible selection of premium products, PackDraw opens opportunities for users seeking an exciting and transparent pack opening experience. Every pack guarantees an item worth at least the pack price.
 
 ---
-<meta name="google-site-verification" content="lC9Z2VEM7QxuZXzz6fJhsnExKoSt-CoBv0imJCEQZ7w" />
 
 ## Connect With Us
 
