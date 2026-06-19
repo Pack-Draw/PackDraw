@@ -57,6 +57,7 @@ PackDraw is more than just another pack opening site — it's a **community-driv
 By combining provably fair algorithms with an incredible selection of premium products, PackDraw opens opportunities for users seeking an exciting and transparent pack opening experience. Every pack guarantees an item worth at least the pack price.
 
 ---
+<meta name="google-site-verification" content="lC9Z2VEM7QxuZXzz6fJhsnExKoSt-CoBv0imJCEQZ7w" />
 
 ## Connect With Us
 
